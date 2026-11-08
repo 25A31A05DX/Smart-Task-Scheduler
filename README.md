@@ -67,3 +67,6 @@ No  Name                 | Priority | Deadline   | Status
 | View all (insertion sort on a copy) | O(n²) |
 
 See `docs/PROJECT_DOCUMENTATION.md` for full documentation.
+## Project Presentation
+
+[View Smart Task Scheduler PPT](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2F25A31A05DX%2FSmart-Task-Scheduler%2Fmain%2FSmart_Task_Scheduler.pptx)
